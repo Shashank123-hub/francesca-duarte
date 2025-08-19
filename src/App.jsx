@@ -58,7 +58,7 @@ function App() {
               <Home className="w-5 h-5 mr-2" />
               Find Your Dream Home
             </Button>
-            <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-black text-lg px-8 py-4">
+            <Button size="lg" variant="outline" className="text-black border-white hover:bg-white hover:text-black text-lg px-8 py-4">
               <TrendingUp className="w-5 h-5 mr-2" />
               Get Home Valuation
             </Button>
