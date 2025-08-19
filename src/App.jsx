@@ -58,7 +58,7 @@ function App() {
               <Home className="w-5 h-5 mr-2" />
               Find Your Dream Home
             </Button>
-            <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-black text-lg px-8 py-4">
+            <Button size="lg" variant="outline" className="text-black border-white hover:bg-white hover:text-black text-lg px-8 py-4">
               <TrendingUp className="w-5 h-5 mr-2" />
               Get Home Valuation
             </Button>
@@ -69,11 +69,11 @@ function App() {
               <div className="text-gray-300">Homes Sold Recently</div>
             </div>
             <div>
-              <div className="text-3xl font-bold text-primary">4+</div>
+              <div className="text-3xl text-white font-bold text-primary">4+</div>
               <div className="text-gray-300">Years Experience</div>
             </div>
             <div>
-              <div className="text-3xl font-bold text-primary">100%</div>
+              <div className="text-3xl text-white font-bold text-primary">100%</div>
               <div className="text-gray-300">Client Satisfaction</div>
             </div>
           </div>
