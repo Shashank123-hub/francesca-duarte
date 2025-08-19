@@ -47,7 +47,7 @@ function App() {
             #1 Real Estate Agent in Fort Worth & Crowley
           </Badge>
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            Turning Dreams Into <span className="text-primary">Keys</span>
+            Turning Dreams Into Keys
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-200 max-w-2xl mx-auto">
             Your trusted bilingual real estate professional serving Fort Worth, Crowley, and the DFW area. 
